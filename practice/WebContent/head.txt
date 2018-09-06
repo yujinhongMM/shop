@@ -1,0 +1,12 @@
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<h1 style="text-align: center;">成都大学信息科学与工程学院实训系统</h1>
+<table cellSpacing="1" cellPadding="1" width="60%" align="center" border="0" style="text-align: center;margin:0 auto;">
+<tr valign="bottom" >
+<td> <a href="/practice/index.jsp">主页</a></td>
+<td> <a href="/practice/jsp/login.jsp">登录/注册</a></td>
+</tr>
+</table>
